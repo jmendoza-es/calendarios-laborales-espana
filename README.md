@@ -1,4 +1,4 @@
-# Calendario Laboral España - Datos JSON
+# Calendario Laboral España - Calendarios Laborales España - Datos JSON
 
 Este repositorio contiene los datos en formato JSON del calendario laboral para todas las provincias de España, año 2025.
 
